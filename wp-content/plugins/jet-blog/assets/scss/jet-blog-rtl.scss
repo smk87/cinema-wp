@@ -1,0 +1,13 @@
+.rtl {
+	.has-thumb-postion-left.has-post-thumb .jet-smart-listing__post-content {
+		margin-left: 0;
+		margin-right: 20px;
+	}
+	.jet-text-ticker__item-content {
+		flex-direction: row-reverse;
+	}
+	.jet-smart-listing__filter-hidden-items {
+		left: 100%;
+		right: auto;
+	}
+}
